@@ -23,6 +23,6 @@ public:
 int main(int argc, const char * argv[]) {
     char write_path[] ="/Users/Wiz/Documents/project/T-brain-2018/T-brain/T-brain/link.txt";
     //write_data_number_link(write_path);
-    
+    //0505
     return 0;
 }
